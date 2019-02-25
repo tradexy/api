@@ -8,7 +8,7 @@
       }
     },
     {
-      "name": "Stich",
+      "name": "Stitch",
       "species" : "dog",
       "foods": {
         "likes": ["chicken", "sausages"],
