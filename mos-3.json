@@ -1,0 +1,35 @@
+[
+      {
+        "name": "Korda",
+        "age" : "21",
+        "personality" : "looser",
+        "sleeptime" : "10",
+        "sports" : "sleep",
+        "foods": {
+          "likes": ["apples","vinegar"],
+          "dislikes": ["sprouts"]
+        }
+      },
+      {
+        "name": "Alvar",
+        "age" : "1",
+        "personality" : "alwayslast",
+        "sleeptime" : "11",
+        "sports" : "softball",
+        "foods": {
+          "likes": ["strawberries", "apples", "cakes"],
+          "dislikes": ["vinegar", "plastic","greensoup"]
+        }
+      },
+      {
+        "name": "Lalo",
+        "age" : "39",
+        "personality" : "earthy",
+        "sleeptime" : "98",
+        "sports" : "balancing",
+        "foods": {
+          "likes": ["potatoes", "chips","mash"],
+          "dislikes": ["orange"]
+        }
+      }
+  ]

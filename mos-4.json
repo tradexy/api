@@ -1,0 +1,25 @@
+[
+
+      {
+        "name": "Liza",
+        "age" : "6",
+        "personality" : "OK",
+        "sleeptime" : "14",
+        "sports" : "dancing",
+        "foods": {
+          "likes": [ "cereal","cakes"],
+          "dislikes": ["silver","celery"]
+        }
+      },
+      {
+        "name": "Bestius",
+        "age" : "111",
+        "personality" : "tyred",
+        "sleeptime" : "3",
+        "sports" : "diving",
+        "foods": {
+          "likes": ["chilly", "pepper"],
+          "dislikes": ["potatoes","tomatoes"]
+        }
+      }
+  ]

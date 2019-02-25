@@ -1,0 +1,79 @@
+[
+    {
+      "name": "Json",
+      "age" : "23",
+      "personality" : "happygolucky",
+      "sleeptime" : "7",
+      "sports" : "running",
+      "foods": {
+        "likes": ["bananas", "strawberries"],
+        "dislikes": ["plastic"]
+      }
+    },
+    {
+        "name": "Matlab",
+        "age" : "20",
+        "personality" : "happygogetter",
+        "sleeptime" : "6",
+        "sports" : "dancing",
+        "foods": {
+          "likes": ["coffee", "salad","apples"],
+          "dislikes": ["tomatoes","celery"]
+        }
+      },
+    {
+        "name": "Evolution",
+        "age" : "6",
+        "personality" : "superstar",
+        "sleeptime" : "10",
+        "sports" : "hockey",
+        "foods": {
+          "likes": ["bananas", "strawberries","salad"],
+          "dislikes": ["carrots","plastic"]
+        }
+      },
+      {
+        "name": "Kasper",
+        "age" : "5",
+        "personality" : "champion",
+        "sleeptime" : "9",
+        "sports" : "football",
+        "foods": {
+          "likes": ["bananas", "strawberries", "apples","vinegar"],
+          "dislikes": ["carrots","celery"]
+        }
+      },
+      {
+        "name": "Android",
+        "age" : "4",
+        "personality" : "winner",
+        "sleeptime" : "8",
+        "sports" : "football",
+        "foods": {
+          "likes": ["bananas", "strawberries", "apples", "cakes"],
+          "dislikes": ["vinegar", "plastic","bluesoup"]
+        }
+      },
+      {
+        "name": "Linux",
+        "age" : "3",
+        "personality" : "interstellar",
+        "sleeptime" : "9",
+        "sports" : "dancing",
+        "foods": {
+          "likes": ["tomatoes", "strawberries","cakes"],
+          "dislikes": ["copper","celery"]
+        }
+      },
+      {
+        "name": "Basic",
+        "age" : "1",
+        "personality" : "energiser",
+        "sleeptime" : "13",
+        "sports" : "running",
+        "foods": {
+          "likes": ["fish", "blueberries","catfood","plastic"],
+          "dislikes": ["carrots","tomatoes","strawberries"]
+        }
+      }
+  ]

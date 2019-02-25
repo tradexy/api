@@ -1,0 +1,35 @@
+[
+    {
+      "name": "Java",
+      "age" : "12",
+      "personality" : "notsolucky",
+      "sleeptime" : "3",
+      "sports" : "sofa",
+      "foods": {
+        "likes": ["burgers", "chips"],
+        "dislikes": ["salad"]
+      }
+    },
+    {
+        "name": "Ms",
+        "age" : "54",
+        "personality" : "happy",
+        "sleeptime" : "13",
+        "sports" : "jumping",
+        "foods": {
+          "likes": ["chocolate"],
+          "dislikes": ["onion","celery"]
+        }
+      },
+    {
+        "name": "Echo",
+        "age" : "23",
+        "personality" : "understar",
+        "sleeptime" : "6",
+        "sports" : "rugby",
+        "foods": {
+          "likes": [ "strawberries","hotdog"],
+          "dislikes": ["gold"]
+        }
+      }
+  ]
