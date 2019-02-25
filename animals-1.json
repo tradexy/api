@@ -12,15 +12,15 @@
       "species" : "shark",
       "foods": {
         "likes": ["fish", "prawns"],
-        "dislikes": ["jelly-fish","sea-urchins"]
+        "dislikes": ["jellyfish","sea-urchins"]
       }
     },
     {
       "name": "Tim",
       "species" : "Tiger",
       "foods": {
-        "likes": ["Deer","Wild-boar"],
-        "dislikes": ["brussel-sprouts","sweet-corn"]
+        "likes": ["deer","wild-boar"],
+        "dislikes": ["brussel sprouts","sweetcorn"]
       }
     }
   ]

@@ -1,10 +1,10 @@
 [
     {
       "name": "Thomas",
-      "species" : "Pig",
+      "species" : "pig",
       "foods": {
         "likes": ["celery", "bread","tuna","carrots"],
-        "dislikes": ["green salad","potatoes"]
+        "dislikes": ["avocado","potatoes"]
       }
     },
     {
