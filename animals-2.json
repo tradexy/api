@@ -1,26 +1,26 @@
 [
     {
-      "name": "Whiskers",
-      "species" : "cat",
+      "name": "Thomas",
+      "species" : "Pig",
       "foods": {
-        "likes": ["celery", "strawberries"],
-        "dislikes": ["carrots"]
+        "likes": ["celery", "bread","tuna","carrots"],
+        "dislikes": ["green salad","potatoes"]
       }
     },
     {
-      "name": "Woof",
+      "name": "Whompaa",
       "species" : "dog",
       "foods": {
-        "likes": ["dog food"],
-        "dislikes": ["cat food"]
+        "likes": ["dog food","tuna"],
+        "dislikes": ["rice","ice-cream"]
       }
     },
     {
-      "name": "Fluffy",
-      "species" : "cat",
+      "name": "Toje",
+      "species" : "horse",
       "foods": {
-        "likes": ["canned food"],
-        "dislikes": ["dry food"]
+        "likes": ["long grass","carrots","potatoes"],
+        "dislikes": ["fish","chips"]
       }
     }
   ]

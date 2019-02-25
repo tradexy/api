@@ -1,26 +1,26 @@
 [
     {
-      "name": "Kitty",
-      "species" : "cat",
+      "name": "Theresa",
+      "species" : "Tuna",
       "foods": {
-        "likes": ["fresh food"],
-        "dislikes": ["stale food"]
+        "likes": ["shark","prawn"],
+        "dislikes": ["bad food","vegatables"]
       }
     },
     {
-      "name": "Pupster",
+      "name": "Stich",
       "species" : "dog",
       "foods": {
-        "likes": ["tomatoes", "peas"],
-        "dislikes": ["bread"]
+        "likes": ["chicken", "sausages"],
+        "dislikes": ["bread","tomatoes","peas"]
       }
     },
     {
-      "name": "Tux",
-      "species" : "cat",
+      "name": "Tundre",
+      "species" : "Penguin",
       "foods": {
-        "likes": ["fancy dishes"],
-        "dislikes": ["basic cat food"]
+        "likes": ["fish","chips"],
+        "dislikes": ["soup","alligator"]
       }
     }
   ]
