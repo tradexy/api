@@ -1,7 +1,7 @@
 [
     {
       "name": "Theresa",
-      "species" : "Tuna",
+      "species" : "tuna",
       "foods": {
         "likes": ["shark","prawn"],
         "dislikes": ["dry food","vegatables"]

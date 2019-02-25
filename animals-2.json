@@ -3,7 +3,7 @@
       "name": "Thomas",
       "species" : "pig",
       "foods": {
-        "likes": ["celery", "bread","tuna","carrots"],
+        "likes": ["celery","bread","tuna","carrots"],
         "dislikes": ["avocado","potatoes"]
       }
     },
@@ -12,7 +12,7 @@
       "species" : "dog",
       "foods": {
         "likes": ["dog food","tuna"],
-        "dislikes": ["rice","ice-cream"]
+        "dislikes": ["rice","ice cream"]
       }
     },
     {
