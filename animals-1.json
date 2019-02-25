@@ -19,7 +19,7 @@
       "name": "Tim",
       "species" : "tiger",
       "foods": {
-        "likes": ["deer","wild-boar"],
+        "likes": ["deer","wild boar"],
         "dislikes": ["brussel sprouts","sweetcorn"]
       }
     }
